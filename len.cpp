@@ -10,7 +10,6 @@ int main( int argc, char** argv ) {
             args << " " << argv[i];
         }
         string s = args.str().erase(0, 1);
-        // cout << s << endl;
         cout << s.length();
     } 
     catch (...) {
