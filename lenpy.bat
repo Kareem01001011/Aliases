@@ -1,3 +1,3 @@
 @echo off
 
-python lenpy.py %*
+python "C:\Aliases\lenpy.py" %*
