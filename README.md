@@ -6,9 +6,8 @@ This makes cmd feel a bit more comfortable like bash. It's pretty much a makeshi
 
 ## How to use
 
-1. Clone this repository in the C: directory.
-2. Rename it to Aliases (since that's the directory that a bunch of files like [`a.bat`](#abat) depend on).
-3. Add `C:\Aliases` (the repository's path) to [PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/).
+1. Clone this repository in the C: directory (Not inside any folder, just `C:`).
+2. Add `C:\Aliases` (the repository's path) to [PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/).
 
 And that's it!
 
