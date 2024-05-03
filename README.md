@@ -20,7 +20,7 @@ cd to the home directory of the current user.
 
 ### aliases.bat
 
-Opens the Aliases directory in vscode (you can modify it to use your preferred text editor).
+Opens `C:\Aliases` (the Aliases directory) in vscode. You have to change the directory in this file manually if you put it somewhere else. You can also modify it to use your preferred text editor.
 
 ### a.bat
 
@@ -28,7 +28,7 @@ Same as [`aliases.bat`](#aliasesbat), this is just a shortcut.
 
 ### aliasescd.bat
 
-cd to the Aliases directory.
+Navigates (cd) to the `C:\Aliases` directory.
 
 ### acd.bat
 
